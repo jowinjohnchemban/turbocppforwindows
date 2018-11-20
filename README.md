@@ -19,7 +19,7 @@ Donate         : www.paypal.me/jowinjohnchemban
 
 
 
-Tips/Instructions for using..
+#Tips/Instructions for using..
 
 Alt + Enter : Toggle between Full Screen and Window.
 
