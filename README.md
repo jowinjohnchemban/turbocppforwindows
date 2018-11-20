@@ -15,7 +15,7 @@ Tested in Windows 10 (compatible till Windows 10)
 
 Follow me      : www.twitter.com/jowinchemban
 
-Donate         : paypal.me/jowinjohnchemban
+Donate         : www.paypal.me/jowinjohnchemban
 
 
 
