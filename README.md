@@ -20,7 +20,7 @@ Donate         : paypal.me/jowinjohnchemban
 
 Tips/Instructions for using..
 
-Alt + Enter : Toggle between Full Screen and Window
+Alt + Enter : Toggle between Full Screen and Window.
 Please don't use Ctrl + F9 for Run your Code as it will close DOS Box.
 Press Alt+Space and Press Enter thus to Repaint Desktop, If mouse not able to Click/Select.
 
