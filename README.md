@@ -1,12 +1,10 @@
-#####################################################################
-#                                                                   #
-#                  DOS Box Turbo C++ for Windows                    #
-#                                                                   #
-#                   DOS Box version : 0.74-2                        #
-#                 Turbo C++ version : 3.0 (Borland)                 #
-#                                                                   #
-#                                  _Modded by : Jowin John Chemban  #
-#####################################################################
+#                  DOS Box Turbo C++ for Windows                  
+                                                                  
+#                  DOS Box version : 0.74-2                        
+#                Turbo C++ version : 3.0 (Borland)   
+
+                                 _Modded by : Jowin John Chemban  
+
 
 _Disclaimer : This setup contains 3rd party applications whose copyright and ownership belongs to respective owners.
 
