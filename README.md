@@ -1,7 +1,7 @@
 #                  DOS Box Turbo C++ for Windows                  
                                                                   
-#                  DOS Box version : 0.74-2                        
-#                Turbo C++ version : 3.0 (Borland)   
+                  DOS Box version : 0.74-2                        
+                Turbo C++ version : 3.0 (Borland)   
 
                                  _Modded by : Jowin John Chemban  
 
