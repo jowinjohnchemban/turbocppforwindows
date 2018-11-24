@@ -6,7 +6,7 @@
                                  _Modded by : Jowin John Chemban  
 
 
-_Disclaimer : This setup contains 3rd party applications whose copyright and ownership belongs to respective owners.
+_Disclaimer : This setup contains 3rd party applications whose copyright and ownership belongs to respective owners._
 
 This package just automate the complex installation procedure thus to make it simple.
 I had tried to optimize the package configurations thus to make it easy and comfortable to code.
